@@ -1,0 +1,9 @@
+.half-form{
+    width: 40%;
+    float: left;
+    margin-right: 10px;
+}
+.tab-content>.active label:active{
+    font-weight: 600;
+    color: #00a651;
+}
